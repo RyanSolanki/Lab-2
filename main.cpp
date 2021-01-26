@@ -36,7 +36,7 @@ int main()
     string name1 = "Ryan Solanki";
     hello1Function(name1);
 
-    string name2 = "your name2";
+    string name2 = "Ethan Lew";
     hello2Function(name2);
 
     return 0;
